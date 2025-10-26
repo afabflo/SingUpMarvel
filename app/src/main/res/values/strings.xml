@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SingUpMarvel</string>
+    <string name="imgMarvel">Imagen de Marvel</string>
+    <string name="marvel">MARVEL</string>
+    <string name="Singup">Sing Up</string>
+    <string name="createaccount">Crear cuenta de usuario\n</string>
+    <string name="email_adress">Email</string>
+    <string name="errorEmailFormat">Error en el patron del formato\n</string>
+    <string name="Password">Password\n</string>
+    <string name="password">Password\n</string>
+    <string name="password_visibleOFF">Password off\n</string>
+    <string name="password_visible">Password On</string>
+    <string name="password_mismatch">Las contraseñas deben ser identicas</string>
+    <string name="create">Crear Cuenta\n</string>
+    <string name="YesAccount">¿Tienes Cuenta?</string>
+    <string name="sing_up">Inicia Sesion</string>
+</resources>
